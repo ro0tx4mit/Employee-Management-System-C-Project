@@ -1,0 +1,39 @@
+# Employee Management System Project Requirements
+
+## 1. C Compiler
+   - You need a C compiler installed on your machine. GCC (GNU Compiler Collection) is recommended.
+
+## 2. Command Line Interface (CLI) or Terminal
+   - Access to a command line interface or terminal is required to compile and run the C program.
+
+## 3. Git (Optional)
+   - If you plan to clone the project repository, Git is needed. Alternatively, you can download the project as a zip file.
+
+# Steps to Set Up and Run the Project:
+
+## 1. Clone the Repository (Optional):
+   - If you have Git installed, you can clone the project repository using the following command:
+     ```
+     git clone <repository-url>
+     ```
+   - Alternatively, you can download the project as a zip file from the repository.
+
+## 2. Navigate to Project Directory:
+   - Change your current working directory to the location where you cloned or extracted the project.
+
+## 3. Compile the Source Code:
+   - Use the C compiler (GCC) to compile the source code. For example:
+     ```
+     gcc -o employee-management-system main.c
+     ```
+
+## 4. Run the Executable:
+   - After successful compilation, run the executable file:
+     ```
+     ./employee-management-system
+     ```
+
+## 5. Follow On-Screen Prompts:
+   - The program will present a menu with different modules. Follow the on-screen prompts to navigate through the modules, add, edit, delete, or view employee information.
+
+Ensure that your system meets these requirements, and you should be able to compile and run the Employee Management System project successfully.
